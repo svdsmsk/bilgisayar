@@ -1,0 +1,6 @@
+W:\Gazi_Uni\NesneTabanliProgramlama_2\Uygulamalar\sevdasimsek\DAL\bin\Debug\DAL.dll
+W:\Gazi_Uni\NesneTabanliProgramlama_2\Uygulamalar\sevdasimsek\DAL\bin\Debug\DAL.pdb
+W:\Gazi_Uni\NesneTabanliProgramlama_2\Uygulamalar\sevdasimsek\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+W:\Gazi_Uni\NesneTabanliProgramlama_2\Uygulamalar\sevdasimsek\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+W:\Gazi_Uni\NesneTabanliProgramlama_2\Uygulamalar\sevdasimsek\DAL\obj\Debug\DAL.dll
+W:\Gazi_Uni\NesneTabanliProgramlama_2\Uygulamalar\sevdasimsek\DAL\obj\Debug\DAL.pdb

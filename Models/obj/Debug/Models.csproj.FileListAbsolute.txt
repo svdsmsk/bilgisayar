@@ -1,0 +1,5 @@
+W:\Gazi_Uni\NesneTabanliProgramlama_2\Uygulamalar\sevdasimsek\Models\bin\Debug\Models.dll
+W:\Gazi_Uni\NesneTabanliProgramlama_2\Uygulamalar\sevdasimsek\Models\bin\Debug\Models.pdb
+W:\Gazi_Uni\NesneTabanliProgramlama_2\Uygulamalar\sevdasimsek\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+W:\Gazi_Uni\NesneTabanliProgramlama_2\Uygulamalar\sevdasimsek\Models\obj\Debug\Models.dll
+W:\Gazi_Uni\NesneTabanliProgramlama_2\Uygulamalar\sevdasimsek\Models\obj\Debug\Models.pdb

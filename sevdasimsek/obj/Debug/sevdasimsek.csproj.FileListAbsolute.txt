@@ -1,0 +1,17 @@
+W:\Gazi_Uni\NesneTabanliProgramlama_2\Uygulamalar\sevdasimsek\sevdasimsek\bin\Debug\sevdasimsek.exe.config
+W:\Gazi_Uni\NesneTabanliProgramlama_2\Uygulamalar\sevdasimsek\sevdasimsek\bin\Debug\sevdasimsek.exe
+W:\Gazi_Uni\NesneTabanliProgramlama_2\Uygulamalar\sevdasimsek\sevdasimsek\bin\Debug\sevdasimsek.pdb
+W:\Gazi_Uni\NesneTabanliProgramlama_2\Uygulamalar\sevdasimsek\sevdasimsek\bin\Debug\bilgisayarkaydet.dll
+W:\Gazi_Uni\NesneTabanliProgramlama_2\Uygulamalar\sevdasimsek\sevdasimsek\bin\Debug\DAL.dll
+W:\Gazi_Uni\NesneTabanliProgramlama_2\Uygulamalar\sevdasimsek\sevdasimsek\bin\Debug\Models.dll
+W:\Gazi_Uni\NesneTabanliProgramlama_2\Uygulamalar\sevdasimsek\sevdasimsek\bin\Debug\bilgisayarkaydet.pdb
+W:\Gazi_Uni\NesneTabanliProgramlama_2\Uygulamalar\sevdasimsek\sevdasimsek\bin\Debug\DAL.pdb
+W:\Gazi_Uni\NesneTabanliProgramlama_2\Uygulamalar\sevdasimsek\sevdasimsek\bin\Debug\Models.pdb
+W:\Gazi_Uni\NesneTabanliProgramlama_2\Uygulamalar\sevdasimsek\sevdasimsek\obj\Debug\sevdasimsek.csprojAssemblyReference.cache
+W:\Gazi_Uni\NesneTabanliProgramlama_2\Uygulamalar\sevdasimsek\sevdasimsek\obj\Debug\sevdasimsek.Form1.resources
+W:\Gazi_Uni\NesneTabanliProgramlama_2\Uygulamalar\sevdasimsek\sevdasimsek\obj\Debug\sevdasimsek.Properties.Resources.resources
+W:\Gazi_Uni\NesneTabanliProgramlama_2\Uygulamalar\sevdasimsek\sevdasimsek\obj\Debug\sevdasimsek.csproj.GenerateResource.cache
+W:\Gazi_Uni\NesneTabanliProgramlama_2\Uygulamalar\sevdasimsek\sevdasimsek\obj\Debug\sevdasimsek.csproj.CoreCompileInputs.cache
+W:\Gazi_Uni\NesneTabanliProgramlama_2\Uygulamalar\sevdasimsek\sevdasimsek\obj\Debug\sevdasimsek.csproj.CopyComplete
+W:\Gazi_Uni\NesneTabanliProgramlama_2\Uygulamalar\sevdasimsek\sevdasimsek\obj\Debug\sevdasimsek.exe
+W:\Gazi_Uni\NesneTabanliProgramlama_2\Uygulamalar\sevdasimsek\sevdasimsek\obj\Debug\sevdasimsek.pdb
